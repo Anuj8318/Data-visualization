@@ -1,0 +1,32 @@
+This file contain the information of the steps which we going to follow  while making this project:
+
+
+Step1:
+Define the goals
+This is the first step to analyse the dataset.
+
+1.Find and show correlations
+2.Which diamonds should we buy? (Best value for money)
+3.Price prediction
+
+
+Step2:
+Data cleaning 
+
+Step3:
+Analyse the data
+
+Step4:
+Now work on the goal which we define on first step
+
+Step5:
+Analyse All things and prediction 
+
+Step 6:
+Result
+
+Step 7:
+End;
+
+
+
